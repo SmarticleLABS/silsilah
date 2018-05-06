@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# Visual Studio Code specific
+*.code-workspace
+
+# MacOS specific
+.DS_Store
+.backup/
